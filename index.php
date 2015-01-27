@@ -46,8 +46,6 @@
 
     </div> <!--  data-toggle="modal" data-target="#myModal"  -->
 
-	<div class="footer"><button onclick="TogetherJS(this); return false;">Start TogetherJS</button> <button class="btn btn-danger" data-toggle="modal" data-target="#Info" id="popover" data-content="Click on me!" data-placement="left" data-toggle="popover" data-container="body" type="button" data-original-title="" title=""><span class="glyphicon glyphicon-info-sign"</span></button></div>
-	
 	<script>
 	$("a[href^='#']").live('click',function(event){
           $('#myModal').modal('show')
