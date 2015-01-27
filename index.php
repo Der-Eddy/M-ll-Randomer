@@ -93,7 +93,8 @@
 		<li>Bootstrap 3.0</li>
 		<li>jQuery >=2.0.3</li>
 		<li>Glyphicons (Bootstrap) 1.0</li></ul>
-		<center><h3><a href="random.zip">Download</a></h3></center>
+		<center><h3><a href="https://github.com/Der-Eddy/Muell-Randomer/archive/master.zip">Download</a></h3>
+		<h4><a href="https://github.com/Der-Eddy/Muell-Randomer">Source Code</a></h4></h2></center>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
